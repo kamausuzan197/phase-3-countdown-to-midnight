@@ -8,7 +8,7 @@ end
 "HAPPY NEW YEAR!"
 end
 
-def contdown_with_sleep (interger)
+def countdown_with_sleep (interger)
     while interger > 0
         puts "#{interger} SECOND(5)!"
     interger -=1
